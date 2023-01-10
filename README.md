@@ -6,7 +6,7 @@
 
 ## 2 Team Members：
 * Dipankar Bhatia
-* Jay Bhesania
+* Jay Bhesania (Team Leader/Scrum Master)
 * Khyati Visavadiya
 * Kapil Parsodkar
 * Xingjian Wu
